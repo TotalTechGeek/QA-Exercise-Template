@@ -59,6 +59,8 @@ The engine allows you to create multiple templates, and add schemas and logic to
 
 ## Getting Started
 
+You will need to have Node.js 18 or newer (this application is built for Active LTS or Current releases of Node.js) and Yarn installed on your machine.
+
 ```bash
 yarn
 ```
